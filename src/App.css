@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  padding: 2%;
+  /* text-align: left;
+  background-color: white;
+  border-radius: 15px;
+  padding: 1%; */
+
+  .spectrum-background {
+    background: linear-gradient(red, transparent),
+      linear-gradient(to top left, lime, transparent),
+      linear-gradient(to top right, blue, transparent);
+    background-blend-mode: screen;
+  }
+}
