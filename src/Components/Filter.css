@@ -1,0 +1,12 @@
+.Filter {
+  margin-bottom: 1rem;
+}
+
+label {
+  margin-right: 0.5rem;
+}
+
+select {
+  padding: 0.5rem;
+  font-size: 1rem;
+}

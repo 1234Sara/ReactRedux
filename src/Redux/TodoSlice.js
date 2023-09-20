@@ -7,6 +7,7 @@ const todoSlice = createSlice({
     { id: 2, Description: "todo2", completed: false },
     { id: 3, Description: "todo3", completed: false },
   ],
+
   reducers: {
     addTodo: (state, action) => {
       const userInput = action.payload.Description;
